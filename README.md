@@ -48,7 +48,7 @@ To run the React News App on your local machine, follow these steps:
     npm start
     ```
 
-5. Open your web browser and visit [http://localhost:10000](http://localhost:10000) to access the app.
+5. Open your web browser and visit [http://localhost:10000](http://localhost:3000) to access the app.
 
 ## Contributing
 
